@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+### Hi! 
+### Gavi
+
+### - 🌱 I’m currently learning ...
+### - 🔭 I’m currently working on ...
+
+
 <!--
 **gabrielavillarrealdiaz/gabrielavillarrealdiaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
