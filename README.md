@@ -3,18 +3,17 @@
 ### Hi! 
 ### I’m Gabriela. Web Developer and Anthropologist :purple_heart:
 
-HELLO, I'M GABRIELLA. WEB DEVELOPER AND ANTHROPOLOGIST. I AM FROM SANTIAGO DE CHILE
 
-### - 🌱 I’m currently learning React
-### - 🔭 I’m currently working on proyect Burguer Queen (SPA- React-Firebase)
-### - 👯 I’m looking to collaborate on proyect EdTech
-### - 🔭 I’m currently working on proyect Burguer Queen (SPA- React-Firebase)
-### - :musical_note: Fun fact: I’m passionate about music, art and technology.
-### - 🔭 I’m currently working on proyect Burguer Queen (SPA- React-Firebase)
-### - 📫 How to reach me: gabrielavillarrealdiaz@gmail.com - www.linkedin.com/in/gabriela-villarreal-diaz
-### - :earth_americas: I’m from Saniago de Chile
+ - 🌱 I’m currently learning React
+ - 🔭 I’m currently working on proyect Burguer Queen (SPA- React-Firebase)
+ - 👯 I’m looking to collaborate on proyect EdTech
+ - 🔭 I’m currently working on proyect Burguer Queen (SPA- React-Firebase)
+ - :musical_note: Fun fact: I’m passionate about music, art and technology.
+ - 🔭 I’m currently working on proyect Burguer Queen (SPA- React-Firebase)
+ - 📫 How to reach me: gabrielavillarrealdiaz@gmail.com - www.linkedin.com/in/gabriela-villarreal-diaz
+ - :earth_americas: I’m from Saniago de Chile
 
-:sparkles: Welcome to my Github! :sparkles:
+### :sparkles: Welcome to my Github! :sparkles:
 
 
 <!--
